@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @MatsepaneTheo
-- 👀 I’m interested in machine learning and artificial intelligence.
-- 🌱 I’m currently doing a master's degree specialising in Radio Astronomy
-- 💞️ I’m looking to collaborate on machine learning
 - 📫 Reach me at theophilus9802@gmail.com
 
 <!---
