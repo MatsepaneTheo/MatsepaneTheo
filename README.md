@@ -1,4 +1,4 @@
-- 📫 Reach me at theophilus9802@gmail.com or theophilus.matsepane@up.ac.za
+- 📫 Reach me at theophilus9802@gmail.com
 
 <!---
 MatsepaneTheo/MatsepaneTheo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
